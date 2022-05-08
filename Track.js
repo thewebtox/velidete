@@ -1,3 +1,5 @@
+"use strict"
+
 document.addEventListener("DOMContentLoaded",function () {
   let e = window.location.href;
   e.indexOf("tempsol.in") + 1 == 0 &&
