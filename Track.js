@@ -1,15 +1,4 @@
 
-  $(document).ready(function () {
-    $("#mycredit2").css("display", "inline-block").html('Created by <i style="color:rgb(243,21,40);" class="fa fa-heart"></i> <a href="#">Deepak parashari</a>');
-    setInterval(function () {
-      if (!$("#mycredit2:visible").length) {
-        window.location.href = "https://google.com"
-      }
-    },
-      3000)
-  })
-
-
 
 document.addEventListener("DOMContentLoaded",function () {
   let e = window.location.href;
