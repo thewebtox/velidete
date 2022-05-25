@@ -9,6 +9,6 @@ function htmlbody() {
         window.location.href = "https://google.com/";
       }
     },
-      1000)
+      9000)
   };
 htmlbody();
